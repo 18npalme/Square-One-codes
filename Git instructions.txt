@@ -1,0 +1,14 @@
+//first time setup:
+open git bash
+browse to where you want to create folder (cd /C/users/XXXX/Documents/SquareOne)
+git clone LINK_TO_GIT_REPOSITORY
+
+//normal use
+open git bash
+browse to where you created the folder (cd /C/users/XXXX/Documents/SquareOne/Square-One-Codes)
+git pull
+//do work
+git status
+git add .
+git commit -m "ADD MESSAGE ABOUT UPDATES"
+git push
